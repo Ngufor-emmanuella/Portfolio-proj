@@ -23,9 +23,8 @@ async function displayProjects() {
   <div id="second-p">
     <p class="second-p">
 
-    In this project, I used React-Redux and API to build SPA a website displaying all African countries that are polluted, and when the user clicks on 
-    each country or searches for a country its displays the various cities. This app offers an easy way to access the latest polluted country in Africa and
-     search by counry name, making it a valuable resource for staying informed about Africa.
+    In this project, I used React-Redux and API to build SPA a website displaying all African countries that are polluted, and when the user clicks on each country or searches for a country its displays the various cities. This app offers an easy way to access the latest polluted country 
+    in Africa and search by counry name, making it a valuable resource for staying informed about Africa.
 
     </p>
   </div>

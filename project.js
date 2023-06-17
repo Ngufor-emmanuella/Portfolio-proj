@@ -19,7 +19,9 @@ const projects = [
     {
       projectID: 3,
       name: 'Health Conference site',
-      description: 'This app a conference site that encourages healthy lifestyle amongst each individuals.built with HTML, CSS, JS',
+
+      description: 'This a conference site that promotes healthy lifestyle and better food choices amongst all age groups.built with HTML, CSS',
+
       featuredImage: 'images/food-proj.png',
       technologies: ['html', 'CSS', 'JavaScripts'],
       url: 'https://peppy-pastelito-765b3e.netlify.app/',
